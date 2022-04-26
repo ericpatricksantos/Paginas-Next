@@ -4,7 +4,7 @@ export default function Contact() {
   return (
    <>
     <Head>
-      <title>Contato AAAAAAAAAAAAAAAAAAAAAAAAAA</title>
+      <title>Contato AAAAAAAAAAAAAAAAAAAAAAAAAA  BBBBBBBB</title>
     </Head>
     <div >
       <h1>Contato</h1>
