@@ -5,7 +5,7 @@ export default function Home() {
   return (
    <>
     <Head>
-      <title>Página Principal</title>
+      <title>Página Principal AAAAAAAAAAAAAAAAAAA</title>
       <meta name="keywords" content="Roupas, Calçados"></meta>
     </Head>
     <div >

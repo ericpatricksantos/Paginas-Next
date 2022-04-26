@@ -3,7 +3,7 @@ export default function About() {
   return (
     <>
       <Head>
-        <title>About</title>
+        <title>About AAAAAA</title>
       </Head>
       <div>
         <h1>About</h1>
