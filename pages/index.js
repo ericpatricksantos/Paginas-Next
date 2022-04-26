@@ -9,7 +9,7 @@ export default function Home() {
       <meta name="keywords" content="Roupas, Calçados"></meta>
     </Head>
     <div >
-      <h1 className={styles.title}>Bem Vindo</h1>
+      <h1 className={styles.title}>Bem Vindo HHHHHH</h1>
       <Image src="/images/city.jpg" width="220px" height="300px" alt="Cidade"/>
     </div>
    </>
